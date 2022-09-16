@@ -23,9 +23,14 @@ Run a series of HEX-P simulations for BH spin measurements with RELXILL
 Options:
 
 -h, --help                       show this help message and exit
+
 -v, --version                    show version number
+
 -e EXPOSURE, --exposure=EXPOSURE source exposure in ks (default: 10)
+
 -s SCALE, --scale=SCALE scale factor for background exposure w.r.t. source (default: 100)
+
 -f FLUX, --flux=FLUX  source flux (2-10 keV) in mCrab (default: 10)
+
 -i ITER, --ier=ITER   Number of simulations (default: 10)
 
